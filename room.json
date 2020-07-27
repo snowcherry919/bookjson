@@ -1,0 +1,610 @@
+{
+    "success": true,
+    "room": [
+        {
+            "id": "1",
+            "hotelName": "Rachada Hotel",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80",
+                "https://images.unsplash.com/photo-1560920174-92abf3b69a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                "https://images.unsplash.com/photo-1560920452-dcdcbbb4e117?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=633&q=80",
+                "https://images.unsplash.com/photo-1560920452-da0369e98fe7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Bangkok, Thailand",
+            "address":"318 Thailand Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・2 km from center",
+            "start":"4.0",
+            "evaluation":283,
+            "normalDayPrice": 1980,
+            "holidayPrice": false,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"1 bed",
+                "bedSize":"(Queen size)"
+            },
+            "roomSize":"Deluxe Double Room",
+            "roomDescription": "The Rachada Hotel is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1574643014728-053f16745e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":true,
+                "noPrepayment":true
+            }
+        },{
+            "id": "2",
+            "hotelName": "Forever Place",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1572177215152-32f247303126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80",
+                "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+                "https://images.unsplash.com/photo-1561817223-f67e69e6bd6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+                "https://images.unsplash.com/photo-1514454923228-7ef54f9251c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Phaya Thai, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・2.9 km from center",
+            "start":"5.0",
+            "evaluation":121,
+            "normalDayPrice": 1980,
+            "holidayPrice": 1680,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"1 bed",
+                "bedSize":"(Queen size)"
+            },
+            "roomSize":"Standard Double Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1521783988139-89397d761dce?ixlib=rb-1.2.1&auto=format&fit=crop&w=1225&q=80",
+                    "https://images.unsplash.com/photo-1541123356219-284ebe98ae3b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":true,
+                "noPrepayment":false
+            }
+        },{
+            "id": "3",
+            "hotelName": "LUV Hotel",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1544097935-e6d136448533?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560747570-846e8dbe919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1492371451031-f0830e91b3d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1122&q=80"
+            ],
+            "destination":"Bangkapi, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・14 km from center",
+            "start":"4.0",
+            "evaluation":325,
+            "normalDayPrice": 2460,
+            "holidayPrice": false,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"1 bed",
+                "bedSize":"(Queen size)"
+            },
+            "roomSize":"Standard Double Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1505773278895-5efa7b11679a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1072&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":true,
+                "noPrepayment":false
+            }
+        },{
+            "id": "4",
+            "hotelName": "WOW Life Hotel",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1584931999791-83ae17b2a4d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560747570-846e8dbe919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560920174-92abf3b69a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Chatuchack, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・12 km from center",
+            "start":"4.0",
+            "evaluation":204,
+            "normalDayPrice": 2880,
+            "holidayPrice":2240,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"1 bed",
+                "bedSize":"(Queen size)"
+            },
+            "roomSize":"Standard Double Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1574643014728-053f16745e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":false,
+                "noPrepayment":true
+            }
+        },{
+            "id": "5",
+            "hotelName": "Celebrity Palace",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1584931999791-83ae17b2a4d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560747570-846e8dbe919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560920174-92abf3b69a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Chatuchack, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・8 km from center",
+            "start":"5.0",
+            "evaluation":189,
+            "normalDayPrice": 2120,
+            "holidayPrice":1890,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"1 bed",
+                "bedSize":"(Queen size)"
+            },
+            "roomSize":"Standard Double Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1574643014728-053f16745e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":false,
+                "noPrepayment":true
+            }
+        },{
+            "id": "6",
+            "hotelName": "RR Space",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
+                "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560747570-846e8dbe919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560920174-92abf3b69a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Rang Rak, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・4.4 km from center",
+            "start":"4.0",
+            "evaluation":112,
+            "normalDayPrice": 2090,
+            "holidayPrice":false,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"1 bed",
+                "bedSize":"(King size)"
+            },
+            "roomSize":"Deluxe Double Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1574643014728-053f16745e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":true,
+                "noPrepayment":false
+            }
+        },{
+            "id": "7",
+            "hotelName": "Bangkok Hostel",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1576354302919-96748cb8299e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=568&q=80",
+                "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560747570-846e8dbe919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560920174-92abf3b69a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Rang Rak, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・4.4 km from center",
+            "start":"3.0",
+            "evaluation":608,
+            "normalDayPrice":1280,
+            "holidayPrice":790,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"2 beds",
+                "bedSize":"(2 twins)"
+            },
+            "roomSize":"Twin Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1574643014728-053f16745e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":true,
+                "noPrepayment":false
+            }
+        },{
+            "id": "8",
+            "hotelName": "DD Space",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1571385761622-aa2467d9f4b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80",
+                "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560747570-846e8dbe919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560920174-92abf3b69a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Din Daeng, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・7 km from center",
+            "start":"4.0",
+            "evaluation":138,
+            "normalDayPrice":1700,
+            "holidayPrice":1240,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"1 beds",
+                "bedSize":"(Queen size)"
+            },
+            "roomSize":"Standard Double Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1574643014728-053f16745e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":false,
+                "noPrepayment":false
+            }
+        },{
+            "id": "9",
+            "hotelName": "Dininn Hotel",
+            "imageUrl": [
+                "https://images.unsplash.com/photo-1565112791128-f7f4c2d487c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560747570-846e8dbe919b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+                "https://images.unsplash.com/photo-1560920174-92abf3b69a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+            ],
+            "destination":"Din Daeng, Bangkok",
+            "address":"318 Phaya Thai Road, Ratchathewi, Phaya Thai, 10400 Bangkok, Thailand",
+            "distanceFormCenter":"・7 km from center",
+            "start":"3.0",
+            "evaluation":446,
+            "normalDayPrice":3450,
+            "holidayPrice":false,
+            "descriptionShort": {
+                "GuestMax": 2,
+                "Bed":"2 beds",
+                "bedSize":"(2 twins)"
+            },
+            "roomSize":"Standard Double Room",
+            "roomDescription": "The Forever Place is an establishment that provides paid lodging on a short-term basis. Facilities provided may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms.",
+            "roomType": {
+                "roomTypeName": ["Deluxe Double Room A","Deluxe Double Room B","Deluxe Suite with Pool"],
+                "roomTypeBed": ["1 bed (Queen size)","1 bed (Queen size)","1 bed (Queen size)"],
+                "roomTypeImageUrl":[
+                    "https://images.unsplash.com/photo-1574643014728-053f16745e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                    "https://images.unsplash.com/photo-1583845112203-29329902332e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                    "https://images.unsplash.com/photo-1560747571-e9b3c7e7868c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                ],
+                "roomTypeNormalPrice": [1600,1600,1980],
+                "roomTypeHolidayPrice":[1490,false,false],
+                "roomTypeGuestMax":[2,2,2],
+                "roomTypeAmenities":[{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": false,
+                    "Room-Service": true,
+                    "Mini-Bar": false,
+                    "Smoke-Free": true
+                },{
+                    "Wi-Fi": true,
+                    "Breakfast": true,
+                    "Television": true,
+                    "Air-Conditioner": true,
+                    "Refrigerator": true,
+                    "Room-Service": true,
+                    "Mini-Bar": true,
+                    "Smoke-Free": true
+                }]
+            },
+            "amenities": {
+                "freeCancellation":false,
+                "noPrepayment":false
+            }
+        }
+    ]
+    
+}
